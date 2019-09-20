@@ -5,6 +5,7 @@
     <div class="foot icon"></div>
 
     <div class="actorLine">表演者：{{data.actors}}</div>
+    <span></span>
     <div class="voteLine"><span class="left">给他投票</span><span class="select icon" v-bind:class="{selected: selected}"></span></div>
 	</div>
 </template>
