@@ -5,6 +5,7 @@
     </div>
     <button v-on:click="goDetail"></button>
     <span></span>
+    <span></span>
   </div>
 </template>
 
