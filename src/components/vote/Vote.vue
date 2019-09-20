@@ -4,8 +4,10 @@
       <program v-for="(item, index) in programList" :data="item" :index="index"></program>
     </div>
     <button v-on:click="goDetail"></button>
-    <span></span>
-    <span></span>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
   </div>
 </template>
 
